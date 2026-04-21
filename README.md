@@ -175,14 +175,8 @@ ECR_REPOSITORY_NAME
 
 * Model: Google PEGASUS
 * Dataset: SAMSum
-* Inspiration: Krish Naik
-
 ---
 
 ## Contact
 
 For feedback, collaboration, or contributions, feel free to connect and open issues or pull requests.
-
----
-
-If you want, I can next upgrade this to a **research-grade GitHub (with results section, diagrams, and paper-style structure)** which will help a lot for CV, Kaggle, and publication.
